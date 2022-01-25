@@ -1,2 +1,2 @@
-# nhibernate-poc
+# rabbitmq-poc
 Basic proof of concept of RabbitMQ
